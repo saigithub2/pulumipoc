@@ -1,0 +1,2 @@
+# pulumipoc
+Simple pulumi project 
